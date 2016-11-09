@@ -1,0 +1,114 @@
+{
+  "vehicleType": "2017", 
+  "year": "GS", 
+  "vehicleStyle": "GS350", 
+  "description": "4 Door V6 8AT", 
+  "packages": [
+    {
+      "packageName": "A", 
+      "packagePrice": 900, 
+      "packageDetails": "INTUITIVE PARKING ASSIST ($500)\nONE TOUCH POWER TRUNK ($400)\nLASER CUT WOOD TRIM ($0)\n", 
+      "intColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Chateau"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Black"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Flaxen"
+        }
+      ], 
+      "exColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Eminent White Pearl"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Smoky Granite Mica"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Liquid Platinum"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Atomic Silver"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Obsidian"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Caviar"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Matador Red Mica"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Nightfall Mica"
+        }
+      ]
+    }, 
+    {
+      "packageName": "B", 
+      "packagePrice": 8775, 
+      "packageDetails": "LUXURY PACKAGE ($4435)\n- Adaptive Front Lighting System\n- Adaptive Variable Suspension\n- Semi-Aniline Leather\n- 18-Way Power-Adjustable Front Seats\n- Heated and Ventilated Front Seats\n- Power Rear & Manual Rear Side Sunshades\n- Rear A/C and Audio Controls\n- Rain-Sensing Windshield Wipers\n- 19-Inch Alloy Wheel\n- Wood and Leather Steering Wheel\nINTUITIVE PARKING ASSIST ($500)\nONE TOUCH POWER TRUNK ($400)\nHEADS UP DISPLAY ($900)\nMARK LEVINSON SYSTEM ($1380)\nPREMIUM TRIPLE BEAM LED HEADLAMPS ($1160)\n", 
+      "intColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Chateau"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Black"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Noble Brown"
+        }
+      ], 
+      "exColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Eminent White Pearl"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Smoky Granite Mica"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Liquid Platinum"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Atomic Silver"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Obsidian"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Caviar"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Matador Red Mica"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Nightfall Mica"
+        }
+      ]
+    }
+  ]
+}

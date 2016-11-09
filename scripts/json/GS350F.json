@@ -1,0 +1,82 @@
+{
+  "vehicleType": "2017", 
+  "year": "GS", 
+  "vehicleStyle": "GS350F", 
+  "description": "4 Door Sedan F-Sport V6", 
+  "packages": [
+    {
+      "packageName": "A", 
+      "packagePrice": 6840, 
+      "packageDetails": "F SPORT PACKAGE ($0)\n- 16-Way Power Sport Driver Seat\n- 19\" Alloy Wheels\n- F SPORT Tuned Adaptive Variable Suspension\n- Aluminum & Leather interior Trim w/ Black Headliner\n- Sport Front Bumper and Rear Lower Valence\n- F SPORT Mesh Grille Inserts\n- Variable Gear Ratio Steering\nINTUITIVE PARKING ASSIST ($500)\nONE TOUCH POWER TRUNK ($400)\nHEADS UP DISPLAY ($900)\nMARK LEVINSON SYSTEM ($1380)\nFOUR WHEEL STEERING ($1700)\nF SPORT LEATHER STEERING WHEEL ($0)\nORANGE BRAKE CALIPERS ($300)\nPREMIUM TRIPLE BEAM LED HEADLAMPS ($1160)\nLIMITED SLIP DIFFERENTIAL ($500)\n", 
+      "intColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Rioja Red"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Black"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Flaxen"
+        }
+      ], 
+      "exColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Ultra White"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Smoky Granite Mica"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Liquid Platinum"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Atomic Silver"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Obsidian"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Caviar"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Matador Red Mica"
+        }
+      ]
+    }, 
+    {
+      "packageName": "B", 
+      "packagePrice": 7435, 
+      "packageDetails": "SPECIAL COLOR ($595)\nF SPORT PACKAGE ($0)\n- 16-Way Power Sport Driver Seat\n- 19\" Alloy Wheels\n- F SPORT Tuned Adaptive Variable Suspension\n- Aluminum & Leather interior Trim w/ Black Headliner\n- Sport Front Bumper and Rear Lower Valence\n- F SPORT Mesh Grille Inserts\nINTUITIVE PARKING ASSIST ($500)\nONE TOUCH POWER TRUNK ($400)\nHEADS UP DISPLAY ($900)\nMARK LEVINSON SYSTEM ($1380)\nFOUR WHEEL STEERING ($1700)\nF SPORT LEATHER STEERING WHEEL ($0)\nORANGE BRAKE CALIPERS ($300)\nPREMIUM TRIPLE BEAM LED HEADLAMPS ($1160)\nLIMITED SLIP DIFFERENTIAL ($500)\n", 
+      "intColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Rioja Red"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Black"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Flaxen"
+        }
+      ], 
+      "exColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Ultrasonic Blue Mica 2.0"
+        }
+      ]
+    }
+  ]
+}

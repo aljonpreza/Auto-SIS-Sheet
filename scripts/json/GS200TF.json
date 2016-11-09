@@ -1,0 +1,82 @@
+{
+  "vehicleType": "2017", 
+  "year": "GS", 
+  "vehicleStyle": "GS200TF", 
+  "description": "4 Door Turbo 8AT F-Sport", 
+  "packages": [
+    {
+      "packageName": "A", 
+      "packagePrice": 1960, 
+      "packageDetails": "F SPORT PACKAGE ($0)\n- 16-Way Power Sport Driver Seat\n- Heated and Ventilated Front Seats\n- 19\" Alloy Wheels\n- F SPORT Tuned Adaptive Variable Suspension\n- Aluminum & Leather interior Trim w/ Black Headliner\n- Sport Front Bumper and Rear Lower Valence\n- F SPORT Mesh Grille Inserts\n- Rain-Sensing Windshield Wipers\n- Rear Sunshade\nF SPORT LEATHER STEERING WHEEL ($0)\nORANGE BRAKE CALIPERS ($300)\nINTUITIVE PARKING ASSIST ($500)\nPREMIUM TRIPLE BEAM LED HEADLAMPS ($1160)\n", 
+      "intColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Rioja Red"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Black"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Flaxen"
+        }
+      ], 
+      "exColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Ultra White"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Smoky Granite Mica"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Liquid Platinum"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Atomic Silver"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Obsidian"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Caviar"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Matador Red Mica"
+        }
+      ]
+    }, 
+    {
+      "packageName": "B", 
+      "packagePrice": 2555, 
+      "packageDetails": "SPECIAL COLOR ($595)\nF SPORT PACKAGE ($0)\n- 16-Way Power Sport Driver Seat\n- Heated and Ventilated Front Seats\n- 19\" Alloy Wheels\n- F SPORT Tuned Adaptive Variable Suspension\n- Aluminum & Leather interior Trim w/ Black Headliner\n- Sport Front Bumper and Rear Lower Valence\n- F SPORT Mesh Grille Inserts\n- Rain-Sensing Windshield Wipers\n- Rear Sunshade\nF SPORT LEATHER STEERING WHEEL ($0)\nORANGE BRAKE CALIPERS ($300)\nINTUITIVE PARKING ASSIST ($500)\nPREMIUM TRIPLE BEAM LED HEADLAMPS ($1160)\n", 
+      "intColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Rioja Red"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Black"
+        }, 
+        {
+          "isApplicable": true, 
+          "colorName": "Flaxen"
+        }
+      ], 
+      "exColors": [
+        {
+          "isApplicable": true, 
+          "colorName": "Ultrasonic Blue Mica 2.0"
+        }
+      ]
+    }
+  ]
+}
